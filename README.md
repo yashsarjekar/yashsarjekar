@@ -14,7 +14,7 @@
 
 ## 🚀 About Me  
 Full Stack Engineer with **5+ years of experience** building **scalable web applications** using **Django, PostgreSQL, and modern frontend frameworks**.  
-Specialized in **Django 5.X, Tailwind, HTMX, JavaScript**, and cloud-based solutions with **AWS & Azure**.  
+Specialized in **Django, Tailwind, HTMX, JavaScript**, and cloud-based solutions with **AWS & Azure**.  
 
 I enjoy **writing clean, maintainable code** and collaborating with **product managers, UI/UX designers, and engineers** to deliver impactful solutions for **e-commerce and online retail platforms**.  
 
@@ -23,7 +23,7 @@ I enjoy **writing clean, maintainable code** and collaborating with **product ma
 ## 🛠️ Tech Stack  
 
 - **Languages**: Python, JavaScript, TypeScript, SQL, HTML5, CSS3  
-- **Backend**: Django 5.X, Flask, FastAPI, Node.js  
+- **Backend**: Django, Flask, FastAPI, Node.js  
 - **Frontend**: Tailwind, HTMX, React, Bootstrap  
 - **Databases**: PostgreSQL, Redis, MySQL, MongoDB  
 - **Cloud**: AWS (EC2, S3, RDS, Lambda), Azure  
@@ -37,7 +37,7 @@ I enjoy **writing clean, maintainable code** and collaborating with **product ma
 
 ### **Senior Software Engineer**  
 **Twisted Mountain Animation** | *Jan 2025 – Present*  
-- Designed and deployed features using Django 5.X + PostgreSQL.  
+- Designed and deployed features using Django + PostgreSQL.  
 - Optimized SQL queries → **40% faster response times**.  
 - Implemented Redis caching for high-traffic apps.  
 - Collaborated with international product & design teams.  
